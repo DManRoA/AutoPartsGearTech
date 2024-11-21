@@ -60,6 +60,11 @@ body {
 }
 
 /* Seccion Autopartes */
+
+.catalogo{
+background-color: var(--fondo-crema);
+}
+
 .autopartes {
     background-color: var(--fondo-crema);
     padding-bottom: 10rem !important;
